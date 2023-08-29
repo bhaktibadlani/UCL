@@ -1,0 +1,287 @@
+Lead,Client,Brief,Agency,"Project extension 
+with same agency","Client selected agency
+themselves from marketplace","Right geography
+ / time zone","Strong skill
+set match","Deep / relevant
+sector expertise",Good cultural fit,Right price level,Strong track record,"Left marked with 0 or 1, 
+must have at least one 1"
+Gideon Hyde,Aegon,Senior UI Designer,Hedgehog Lab,0,0,1,1,1,0,0,0,VALID
+Gideon Hyde,Aegon,UX 2 month Resourcing,Shoreditch Design Studio,0,0,1,1,1,1,0,1,VALID
+Gideon Hyde,Allego ,EV Location Partner Campaign,GH05T Ltd.,0,0,1,1,1,1,0,1,VALID
+Gideon Hyde,Allego ,EV Location Partner Campaign,Buddy Media,0,0,1,1,1,0,0,1,VALID
+Gideon Hyde,Allego ,EV Location Partner Campaign,bbp,0,0,1,0,0,1,0,1,VALID
+Kate Walker,Auspaynet,Brand Refresh,Cocogun,0,0,1,0,0,0,1,1,VALID
+Kate Walker,Auspaynet,Brand Refresh,Houston Group,0,0,1,1,1,1,1,1,VALID
+Kate Walker,Auspaynet,Brand Refresh,Principals,0,0,1,1,1,0,1,1,VALID
+Paul Bowman,Aviva,DW Overarching Vision,Studiospace,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Aviva,Investor application journey,Shoreditch Design Studio,0,1,1,1,0,0,0,0,VALID
+Paul Bowman,Aviva,Quote Me Happy Content,Buddy Media,0,1,0,1,0,1,0,1,VALID
+Paul Bowman,Aviva,Group Life Content,Notepad Studio,0,0,0,0,0,1,1,0,VALID
+Paul Bowman,Aviva,Group Life Content,Orange Panther Collective,0,0,0,0,0,1,1,0,VALID
+Paul Bowman,Aviva,Group Life Content,2050London,0,0,0,1,0,0,0,1,VALID
+Paul Bowman,Aviva,DW E2E Prototype ,NMD+,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,DW Customer Strategy,GH05T Ltd.,0,1,0,0,0,0,0,1,VALID
+Paul Bowman,Aviva,Pre-retirement App,Apadmi,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Aviva,Pre-retirement App,Shoreditch Design Studio,0,0,1,1,0,1,1,0,VALID
+Paul Bowman,Aviva,Pre-retirement App,xDesign,0,0,0,1,0,0,0,1,VALID
+Paul Bowman,Aviva,Customer Engagement Triggers,GH05T Ltd.,0,0,0,0,0,1,1,0,VALID
+Paul Bowman,Aviva,Customer Engagement Triggers,Reed Words,0,0,0,1,0,0,1,1,VALID
+Paul Bowman,Aviva,PRIS Video Production,Viewpoint Studios,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Expert Videos x5 London,SAND visuals,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Aviva,Expert Videos x5 London,Shoreditch Design Studio,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,DW Media Buying ,GH05T Ltd.,1,0,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Game of Risk,Innovate Live,0,0,0,1,0,0,1,0,VALID
+Paul Bowman,Aviva,Brand Escape Room Design,S+Co,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Aviva,Brand Escape Room Design,The Park,0,0,0,1,0,0,0,1,VALID
+Paul Bowman,Aviva,Brand Escape Room Design,Innovate Live,0,0,0,0,0,0,1,1,VALID
+Paul Bowman,Aviva,Aviva Advisor Prop Messaging,Reed Words,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Expert object photography,Viewpoint Studios,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,V2 Aviva Advisor Prop Messaging ,Reed Words,1,0,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Escape Room York,Innovate Live,1,0,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Escape Room Hoxton,Innovate Live,1,0,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Aviva Social Media Team,GH05T Ltd.,0,0,0,1,1,1,1,0,VALID
+Paul Bowman,Aviva,Aviva Social Media Team,Buddy Media,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Climate  Report,Reed Words,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Aviva Award Entries,Reed Words,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Generative AI,xDesign,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Choose Your Adventure,Innovate Live,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,One Aviva Video,Shoreditch Design Studio,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Aviva,Escape Room Norwich,Innovate Live,1,0,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Protection proposition exploration,Good Innovation,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Protection proposition exploration,UNPITCHD,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Adivsor Messaging,Reed Words,1,,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Aviva Masterclass - TikTok,Buddy Media,1,0,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,Buddy Media Aviva,Buddy Media,1,0,0,0,0,0,0,0,VALID
+Paul Bowman,Aviva,SEO Aviva,Secret Source Marketing,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Aviva,SEO Aviva,Croud,0,0,0,1,0,0,0,1,VALID
+Paul Bowman,Aviva,SEO Aviva,Inflorescence Media,0,0,0,0,0,0,0,0,INVALID
+Paul Bowman,Aviva,Gen AI smoke Tests,UNPITCHD,0,1,0,1,0,1,0,0,VALID
+Paul Bowman,Aviva,Gen AI smoke Tests,CreateFuture,0,1,0,1,0,0,0,1,VALID
+Paul Bowman,Aviva,Gen AI smoke Tests,Loomery,0,0,0,1,0,0,0,1,VALID
+Peter Sayburn,Aviva,Zero micro-site,Rip + Tear,0,0,0,0,0,0,0,1,VALID
+Peter Sayburn,Aviva,Zero micro-site,I-AM,0,0,0,1,0,1,0,1,VALID
+Peter Sayburn,Aviva,Zero micro-site,Rufus Leonard,0,0,0,1,0,0,0,1,VALID
+Peter Sayburn,Aviva,MoCo marketing,Buddy Media,0,0,0,1,0,1,0,0,VALID
+Peter Sayburn,Aviva,MoCo marketing,Heur,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,Aviva,MoCo marketing,Three Whiskey,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,Aviva,MOCO Board Comms,Buddy Media,1,0,0,0,0,0,0,0,VALID
+Peter Sayburn,Aviva,MOCO marketing Jul-Oct extension,Buddy Media,1,0,0,0,0,0,0,0,VALID
+Peter Sayburn,Aviva,MOCO Marketing (November/December),Buddy Media,1,0,0,0,0,0,0,0,VALID
+Peter Sayburn,Aviva,MOCO content ,Buddy Media,1,0,0,0,0,0,0,0,VALID
+Peter Sayburn,Aviva,MOCO 2023 - Agency fee,Buddy Media,1,0,0,0,0,0,0,0,VALID
+Peter Sayburn,Aviva,MOCO 2023 - Media Budget ,Buddy Media,1,0,0,0,0,0,0,0,VALID
+Peter Sayburn,Aviva,SHIRO customer journeys ,Shoreditch Design Studio,0,1,0,0,0,0,0,0,VALID
+Phil Kohler,Aviva,Sustainable Home Insurance,Good Innovation,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,Aviva,Sustainable Home Insurance,Nile HQ,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,Aviva,Sustainable Home Insurance,Sparksfly,0,0,1,1,1,0,0,1,VALID
+Phil Kohler,Aviva,DW - Pension Consolidation journey design,Nimbletank,0,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,DW - Pension Consolidation journey design,NMD+,0,0,1,1,1,0,0,0,VALID
+Phil Kohler,Aviva,DW - Pension Consolidation journey design,Shoreditch Design Studio,0,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,GI Retained Squad,Hedgehog Lab,0,0,1,1,1,0,1,1,VALID
+Phil Kohler,Aviva,GI Retained Squad,xDesign,0,0,1,1,1,0,1,1,VALID
+Phil Kohler,Aviva,MoneyCoach Ph1,Neu,0,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,MoneyCoach Ph1,off brand.,0,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,Life QtB journey optimisation,G-W,0,0,0,1,0,0,0,0,VALID
+Phil Kohler,Aviva,Life QtB journey optimisation,NMD+,0,0,1,1,0,1,0,1,VALID
+Phil Kohler,Aviva,Life QtB journey optimisation,Shoreditch Design Studio,0,0,1,1,0,0,1,0,VALID
+Phil Kohler,Aviva,Home sustainability (smoke test),Good Innovation,1,0,0,0,0,0,0,0,VALID
+Phil Kohler,Aviva,DW Retained Squad,Hedgehog Lab,0,0,1,1,0,0,1,1,VALID
+Phil Kohler,Aviva,DW Retained Squad,xDesign,0,0,1,1,0,0,1,1,VALID
+Phil Kohler,Aviva,Innovation smoke tests,Shoreditch Design Studio,0,0,1,1,0,1,1,1,VALID
+Phil Kohler,Aviva,OneAviva Narrative,Rip + Tear,0,0,1,1,0,1,1,0,VALID
+Phil Kohler,Aviva,DW Personas,NMD+,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,Aviva,DW Personas,I-AM,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,Aviva,DW Personas,Blicx,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,Aviva,MyAviva Engagement,Nimbletank,0,0,1,1,1,0,0,0,VALID
+Phil Kohler,Aviva,MyAviva Engagement,UNPITCHD,0,0,1,1,1,0,0,0,VALID
+Phil Kohler,Aviva,MyAviva Engagement,Frontier,0,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,DW retained design squad - 1st 2 weeks,Hedgehog Lab,1,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,Financial Wellbeing,xDesign,0,0,1,1,0,0,1,1,VALID
+Phil Kohler,Aviva,Financial Wellbeing,Shoreditch Design Studio,0,0,1,1,0,0,1,1,VALID
+Phil Kohler,Aviva,Financial Wellbeing,Loomery,0,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,SHIRO follow on,Shoreditch Design Studio,1,0,1,1,0,0,0,0,VALID
+Phil Kohler,Aviva,Retirement Modelling Tool,xDesign,0,0,1,1,0,0,1,1,VALID
+Peter Sayburn,AXA,Countrywide broker video,Viewpoint Studios,0,0,0,1,0,0,1,0,VALID
+Peter Sayburn,AXA,Countrywide broker video,Shoreditch Design Studio,0,0,0,1,0,0,1,1,VALID
+Peter Sayburn,AXA,Connected Car prop dev sprint,CreateFuture,0,0,0,1,1,1,0,0,VALID
+Peter Sayburn,AXA,Connected Car prop dev sprint,HACKMASTERS,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,AXA,Connected Car prop dev sprint,Loomery,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,AXA,Digital Claims ,Oxara London,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,AXA,Digital Claims ,Secret Source Marketing,0,0,0,1,1,0,1,0,VALID
+Phil Kohler,AXA,Prop Dev (EV and CC Insurance),Blue Feathers,0,1,1,1,0,0,0,0,VALID
+Phil Kohler,AXA,Prop Dev (EV and CC Insurance),Daughter Studio,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,AXA,Prop Dev (EV and CC Insurance),CreateFuture,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,AXA,Awards applications x5,Boost Awards,0,0,1,1,0,0,0,1,VALID
+Phil Kohler,AXA,Awards applications x5,Reed Words,0,0,1,1,0,0,0,1,VALID
+Hannah Fraser,Biffa,Tender Template,Rufus Leonard,0,0,0,0,0,0,0,1,VALID
+Hannah Fraser,Biffa,Tender Template,Shoreditch Design Studio,0,0,0,1,0,0,0,1,VALID
+Hannah Fraser,Biffa,Tender Template,Inc,0,0,0,0,0,0,1,0,VALID
+Hannah Fraser,Biffa,Media buying,Orange Panther Collective,0,0,0,0,0,0,1,0,VALID
+Hannah Fraser,Biffa,Video Animation,SAND visuals,0,0,0,1,0,0,1,1,VALID
+Hannah Fraser,Biffa,Video Animation,InspoHub Ltd,0,0,0,0,0,1,1,0,VALID
+Hannah Fraser,Biffa,Video Animation,Apex1,0,0,0,0,0,1,1,0,VALID
+Hannah Fraser,Biffa,Video Animation,Shoreditch Design Studio,0,0,0,1,0,1,1,0,VALID
+Hannah Fraser,Biffa,Commonwealth Games Case Study Copywriting,Inc,0,0,0,1,0,1,1,0,VALID
+Hannah Fraser,Biffa,Sales Playbook,Inc,0,0,0,1,0,1,1,0,VALID
+Hannah Fraser,Biffa,Sales Playbook,Stride,0,0,0,1,0,0,1,0,VALID
+Hannah Fraser,Biffa,Sales Playbook,Notepad Studio,0,0,0,1,0,0,1,0,VALID
+Hannah Fraser,Biffa,Food & Packaging E2E Proposition Animation,Shoreditch Design Studio,0,0,0,1,1,1,1,1,VALID
+Hannah Fraser,Biffa,Food & Packaging E2E Proposition Animation,Salamandra.uk Animation Studios,0,0,0,1,1,1,0,1,VALID
+Hannah Fraser,Biffa,Food & Packaging E2E Proposition Animation,Tinker Taylor,0,0,0,1,0,1,0,1,VALID
+Hannah Fraser,Biffa,Social Media Support - Initial Trial,NMD+,0,0,0,1,0,1,1,0,VALID
+Hannah Fraser,Biffa,Biffa Corporate Event Support ,Innovate Live,0,0,0,1,0,1,1,1,VALID
+Hannah Fraser,Biffa,Biffa Corporate Event Support ,Experience,0,0,0,1,0,0,1,0,VALID
+Hannah Fraser,Biffa,Biffa Corporate Event Support ,The Park,0,0,0,1,0,0,0,1,VALID
+Peter Sayburn,Biffa,Wordpress site fix,Apex1,0,0,0,1,0,1,1,0,VALID
+Peter Sayburn,Biffa,Wordpress site fix,Solution17,0,0,0,1,0,0,1,0,VALID
+Peter Sayburn,Biffa,Simply Waste website hosting and maintenance ,Apex1,1,0,0,0,0,0,0,0,VALID
+Phil Kohler,Biffa,Marketing team coaching,Blue Feathers,0,1,0,1,1,1,0,1,VALID
+David Cowser,Cedar,Research help,Vivaldi,0,0,0,0,0,0,0,0,INVALID
+David Cowser,Cedar,Research help,Shoreditch Design Studio,0,0,0,0,0,0,0,0,INVALID
+Robin Scarborough,CFS,Digital Roadmap,Path Ventures,0,0,1,1,1,1,0,0,VALID
+Robin Scarborough,CFS,Visualisation,Sketch & Co,0,0,0,1,1,0,1,1,VALID
+Robin Scarborough,CFS,Adobe website design & planning sprint,VERSA AGENCY,0,0,1,1,1,1,0,1,VALID
+Robin Scarborough,CFS,DSM MVP Planning,Path Ventures,0,1,1,1,1,1,0,1,VALID
+Robin Scarborough,CFS,Chat & Chatbot ,VERSA AGENCY,0,1,1,1,1,1,0,1,VALID
+Hannah Fraser,D&G,Corporate Website Design + Build,Shoreditch Design Studio,0,0,1,1,1,1,1,1,VALID
+Hannah Fraser,D&G,Corporate Website Design + Build,OHMY,0,0,1,1,1,1,1,1,VALID
+Hannah Fraser,D&G,Corporate Website Design + Build,Solace Digital,0,0,1,1,1,0,1,0,VALID
+George Patten,Fenergo,Product Vision Video,Shoreditch Design Studio,0,0,0,1,0,0,0,0,VALID
+George Patten,Fenergo,Product Vision Video,Hatch Films CIC,0,0,0,1,0,0,0,0,VALID
+George Patten,Fenergo,Product Vision Video,Josephmark,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,Fletchers Solicitors,SEO - Legal Services,Three Whiskey,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,Fletchers Solicitors,SEO - Legal Services,Croud,0,0,0,1,1,1,0,0,VALID
+Gideon Hyde,Gala Games,New Starts Academy,S+Co,0,0,1,1,1,0,1,1,VALID
+Gideon Hyde,Gala Games,VOX social media account,Buddy Media,0,0,1,1,1,0,0,1,VALID
+Gideon Hyde,Gala Games,VOX social media account,GH05T Ltd.,0,0,0,1,1,1,0,1,VALID
+Gideon Hyde,Gala Games,VOX social media account,off brand.,0,0,0,0,1,1,1,1,VALID
+Gideon Hyde,Gala Games,VOX Souls Website,off brand.,0,1,0,0,0,0,0,0,VALID
+Peter Sayburn,Gala Games,VOX creative concepts ,Studio Something,0,0,1,0,1,1,1,0,VALID
+Peter Sayburn,Gala Games,VOX creative concepts ,off brand.,0,0,1,0,0,1,1,0,VALID
+Peter Sayburn,Gala Games,VOX creative concepts ,Daughter Studio,0,0,0,0,0,0,0,1,VALID
+Robin Scarborough,Global Sisters,Website design & build,Akcelo,0,0,1,1,0,0,0,1,VALID
+Robin Scarborough,Global Sisters,Website design & build,SLIK,0,0,1,1,0,0,0,1,VALID
+Robin Scarborough,Global Sisters,Website design & build,Future Friendly,0,1,1,1,0,1,0,1,VALID
+Robin Scarborough,Global Sisters,Website design & build,Tobias,0,0,1,1,1,0,0,1,VALID
+Robin Scarborough,Google,Lighthouse program,How To Impact,0,0,1,1,1,1,0,0,VALID
+Robin Scarborough,Google,Lighthouse program,Slingshot,0,0,0,1,1,0,0,1,VALID
+Robin Scarborough,Google,Lighthouse program,Innovation Media,0,0,0,0,1,0,0,1,VALID
+Paul Bowman,HSBC,Social Media - Pride Birmingham event coverage,Nonsensical,0,0,0,1,0,0,1,0,VALID
+Paul Bowman,HSBC,Social Media - Pride Birmingham event coverage,Buddy Media,0,0,0,1,1,0,0,1,VALID
+Paul Bowman,HSBC,HSBC Creative Resource,GH05T Ltd.,0,0,0,1,0,0,1,1,VALID
+Peter Sayburn,HSBC,Private Bank Video and Content,Blood Orange Film,0,0,0,1,0,0,0,0,VALID
+Peter Sayburn,HSBC,Private Bank Video and Content,Shoreditch Design Studio,0,0,0,1,0,1,0,1,VALID
+Hannah Fraser,JLR,UX/UI Retained Squads,Shoreditch Design Studio,0,0,1,1,1,1,1,1,VALID
+Hannah Fraser,JLR,UX/UI Retained Squads,Hedgehog Lab,0,0,1,1,1,0,1,1,VALID
+Hannah Fraser,JLR,UX/UI Retained Squads,The Bang,0,0,1,1,1,1,1,1,VALID
+Hannah Fraser,JLR,OneApp UX/UI Design Extension,The Bang,1,0,0,0,0,0,0,0,VALID
+Hannah Fraser,JLR,JLR Electrification Brief add on - visualisation,HeyBigMan!,0,0,0,1,0,1,1,1,VALID
+Hannah Fraser,JLR,Panthera App Experience Design Vision,CreateFuture,0,0,0,1,1,1,1,1,VALID
+Hannah Fraser,JLR,Panthera App Experience Design Vision,xDesign,0,0,0,1,1,0,1,1,VALID
+Hannah Fraser,JLR,Panthera App Experience Design Vision,Nimbletank,0,0,0,1,1,1,1,1,VALID
+Hannah Fraser,JLR,Panthera App Experience Design Vision,Shoreditch Design Studio,0,0,0,1,1,0,0,0,VALID
+Hannah Fraser,JLR,JLR FS CX Vision,CreateFuture,0,0,0,1,1,1,1,1,VALID
+Hannah Fraser,JLR,JLR FS CX Vision,OHMY,0,0,1,1,1,0,1,1,VALID
+Hannah Fraser,JLR,JLR FS CX Vision,Loomery,0,0,0,1,1,1,1,1,VALID
+Hannah Fraser,JLR,Panthera OneApp Ongoing UX/UI Support,Nimbletank,1,0,0,0,0,0,0,0,VALID
+Hannah Fraser,JLR,JLR Research: Better By Design Insights Project,2CV,0,0,1,1,0,0,0,1,VALID
+Hannah Fraser,JLR,JLR Research: Better By Design Insights Project,The Nursery Research & Planning Ltd,0,0,1,1,0,0,0,0,VALID
+Hannah Fraser,JLR,2+ Yr OneApp UX/UI Deal,The Bang,1,0,0,0,0,0,0,0,VALID
+Hannah Fraser,JLR,JLR Panthera OneApp Design Project Extension - Luxury CRM Service Design,Nimbletank,1,0,0,0,0,0,0,0,VALID
+Peter Sayburn,JLR,Future app vision,Rip + Tear,0,0,0,1,0,1,1,0,VALID
+Peter Sayburn,JLR,Future app vision,Remesh,0,0,1,1,0,0,1,1,VALID
+Hannah Fraser,L&G,Retail Brand Positioning,Studio Something,0,0,0,1,0,1,0,1,VALID
+Hannah Fraser,L&G,Retail Brand Positioning,2050London,0,0,0,1,0,0,0,1,VALID
+Hannah Fraser,L&G,Retail Brand Positioning,Daughter Studio,0,1,0,0,0,0,0,0,VALID
+Hannah Fraser,L&G,Retail Brand Positioning,Blue Feathers,0,1,0,0,0,0,0,0,VALID
+Hannah Fraser,L&G,Retail Brand Positioning,MB&a,0,1,0,0,0,0,0,0,VALID
+Hannah Fraser,L&G,Retail Brand Positioning,Manifest Group,0,0,0,1,0,0,0,1,VALID
+Kate Walker,MA Financial,MA Financial Website - US Version,PALO IT,1,0,0,0,0,0,0,0,VALID
+Kate Walker,MA Financial,IMWT Scope Extension,In Marketing We Trust,1,0,0,0,0,0,0,0,VALID
+Kate Walker,MA Financial,Paid performance media set-up and campaign mgmt,Balmer Agency,0,0,0,1,1,1,0,1,VALID
+Kate Walker,MA Financial,Paid performance media set-up and campaign mgmt,Shines Digital,0,0,0,1,0,1,0,1,VALID
+Kate Walker,MA Financial,Paid performance media set-up and campaign mgmt,In Marketing We Trust,0,0,1,1,1,1,0,1,VALID
+Kate Walker,MA Financial,SEO Site Migration and Performance Campaign,In Marketing We Trust,0,0,1,1,1,1,0,1,VALID
+Kate Walker,MA Financial,SEO Site Migration and Performance Campaign,Balmer Agency,0,0,0,1,1,1,0,1,VALID
+Kate Walker,MA Financial,SEO Site Migration and Performance Campaign,Shines Digital,0,0,0,1,0,1,0,1,VALID
+Kate Walker,MA Financial,Brand refresh,Houston Group,0,0,1,1,1,1,1,1,VALID
+Robin Scarborough,MA Financial,CMS implementation and website redesign (Discover),PALO IT,0,0,1,1,1,1,0,1,VALID
+Robin Scarborough,MA Financial,CMS implementation and website redesign (Discover),IE,0,0,0,1,0,1,0,1,VALID
+Robin Scarborough,MA Financial,CMS implementation and website redesign (Discover),Deepend,0,0,1,1,1,1,0,1,VALID
+Robin Scarborough,MA Financial,MA Financial Website Build,PALO IT,1,0,0,0,0,0,0,0,VALID
+Robin Scarborough,MA Financial,MA Financial Website Build - extension sprint 1,PALO IT,1,0,0,0,0,0,0,0,VALID
+George Patten,Momentum GB,Drive Footfall and Participation at Events,Dupree International,0,1,0,0,0,0,0,0,VALID
+George Patten,Momentum GB,Drive Footfall and Participation at Events,Heur,0,1,0,0,0,0,0,0,VALID
+George Patten,Momentum GB,Drive Footfall and Participation at Events,Innovate Live,0,1,0,0,0,0,0,0,VALID
+Kate Walker,News Corp (Aus),Ford Everest Campaign Microsite,Helium,0,0,1,1,1,1,0,1,VALID
+Kate Walker,News Corp (Aus),James Hardie PDF to Microsite Build,Helium,0,0,1,1,1,1,0,1,VALID
+Kate Walker,News Corp (Aus),James Hardie PDF to Microsite Build,VERSA AGENCY,0,0,1,1,1,1,0,1,VALID
+Kate Walker,News Corp (Aus),Company Director Podcast Series,Ampel,0,0,1,1,1,1,1,1,VALID
+Kate Walker,News Corp (Aus),Acuity Magazine Podcast Series,Ampel,0,0,1,1,1,1,1,1,VALID
+Kate Walker,News Corp (Aus),MR-Lovisa Instagram Filters,Five by Five Global,0,0,0,1,1,0,0,1,VALID
+Kate Walker,News Corp (Aus),MR-Lovisa Instagram Filters,SLIK,0,0,0,1,0,0,0,1,VALID
+Robin Scarborough,News Corp (Aus),Premium meal planning app,How To Impact,0,0,1,1,1,1,1,1,VALID
+Robin Scarborough,News Corp (Aus),Premium meal planning app,IE,0,0,0,1,0,1,1,1,VALID
+Robin Scarborough,News Corp (Aus),Premium meal planning app,Tobias,0,0,1,1,1,0,1,1,VALID
+Robin Scarborough,News Corp (Aus),Experiment capability & 2x prop experiments,How To Impact,0,0,1,1,1,1,1,1,VALID
+Robin Scarborough,News Corp (Aus),Experiment capability & 2x prop experiments,IE,0,0,0,1,0,1,1,1,VALID
+Paul Bowman,Oxford Properties,Data Visualisation,NMD+,0,0,0,0,0,1,1,0,VALID
+Paul Bowman,Oxford Properties,Data Visualisation,infogr8 Ltd,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Oxford Properties,Website copy,Reed Words,0,0,0,1,0,0,1,0,VALID
+Paul Bowman,Oxford Properties,Website copy,infogr8 Ltd,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Oxford Properties,Website copy,Catch the Sun Communications,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Oxford Properties,Front End Web Design ,Shoreditch Design Studio,0,0,0,1,0,0,1,0,VALID
+Paul Bowman,Oxford Properties,Front End Web Design ,Akcelo,0,0,1,1,0,0,0,1,VALID
+Paul Bowman,Oxford Properties,Front End Web Design ,xDesign,0,0,0,1,0,0,0,0,VALID
+Paul Bowman,Oxford Properties,Video Content,Shoreditch Design Studio,0,0,0,0,0,0,1,0,VALID
+Phil Kohler,Portevo,UX Improvement,Dark Blue,0,0,1,1,0,0,1,0,VALID
+Phil Kohler,Portevo,UX Improvement,Bridge Studio,0,0,1,1,0,0,1,0,VALID
+Phil Kohler,Portevo,UX Improvement,Solution17,0,0,1,1,0,0,1,0,VALID
+David Cowser,Protective Life,Vehicle health product,Matic Digital,0,0,0,1,1,1,1,0,VALID
+David Cowser,Protective Life,Vehicle health product,Josephmark,0,0,0,1,1,0,0,0,VALID
+Robin Scarborough,Silverchain,Digital Health Solutions,Tobias,0,0,0,1,1,1,1,1,VALID
+Robin Scarborough,Silverchain,Digital Health Solutions,VERSA AGENCY,0,0,0,1,1,1,1,1,VALID
+Phil Kohler,Snugg Energy,Prop vision,Rufus Leonard,0,1,1,1,0,0,0,0,VALID
+Hannah Fraser,Superdrug,Skin Care Brief ,Launch Studio,0,0,0,1,0,1,1,0,VALID
+Hannah Fraser,Superdrug,Skin Care Brief ,Frontier,0,0,0,1,1,0,0,1,VALID
+Hannah Fraser,Superdrug,Skin Care Brief ,Fun Agency Ltd,0,0,0,1,1,1,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph2 (UX),Raw.Studio,0,0,1,1,0,0,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (product),Path Ventures,1,0,1,1,1,1,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph2 (JN),Path Ventures,1,0,1,1,1,1,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (research),Objective Experience,0,0,1,0,0,0,1,0,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (research),MyMavins,0,0,1,1,1,0,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (UX),Raw.Studio,1,0,1,1,0,0,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (data science),Ellipsis,0,0,1,1,1,1,1,1,VALID
+Robin Scarborough,TAL,Cover sense ph2 (Quill Peak),Quill Peak Consulting,1,0,0,1,1,0,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (CDR),Quill Peak Consulting,1,0,0,1,1,0,1,1,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (marcomms),Head & Heart Creative,0,0,1,1,0,0,1,0,VALID
+Robin Scarborough,TAL,Cover Sense ph3 (marcomms),Cocogun,0,0,1,1,0,0,1,0,VALID
+Robin Scarborough,TAL,Claims Intake Experience,Path Ventures,0,1,1,1,1,1,1,1,VALID
+Robin Scarborough,TAL,UX Prototyping,Raw.Studio,0,0,1,1,0,0,1,1,VALID
+Robin Scarborough,TAL,UX Prototyping,blueegg,0,0,1,1,1,0,1,1,VALID
+Robin Scarborough,TAL,UX Prototyping,Helium,0,0,1,1,0,0,1,1,VALID
+Robin Scarborough,TAL,Bid support,Path Ventures,0,1,1,1,1,1,1,1,VALID
+Robin Scarborough,TAL,Healthscout UX Prototype (extension),Raw.Studio,1,0,0,0,0,0,0,0,VALID
+Robin Scarborough,TAL,CDR bootcamp,Quill Peak Consulting,0,1,0,1,1,1,1,1,VALID
+Robin Scarborough,TAL,Pulse ph 1,Path Ventures,0,1,1,1,1,1,1,1,VALID
+Robin Scarborough,TAL,Product Design - Pulse ,Raw.Studio,0,0,1,1,0,0,0,1,VALID
+Robin Scarborough,TAL,Product Design - Pulse ,Wonderful,0,0,1,1,0,1,0,1,VALID
+Robin Scarborough,TAL,Product Design - Pulse ,Apparent,0,0,1,1,1,0,0,1,VALID
+Robin Scarborough,TAL,Content Design - Pulse,Wonderful,0,0,1,1,0,1,0,1,VALID
+Robin Scarborough,TAL,Content Design - Pulse,Apparent,0,0,1,1,1,0,0,1,VALID
+Robin Scarborough,TAL,CBUS Claims Sprint,Path Ventures,0,1,1,1,1,1,1,1,VALID
+Peter Sayburn,Tesco Bank,Climate Prop,Good Innovation,0,0,0,1,1,1,0,1,VALID
+Kate Walker,TfNSW,Contracting experience design & UX think tank,Snowmelt,0,0,1,1,1,1,0,1,VALID
+Kate Walker,TfNSW,XD team support and capability build,Tobias,0,0,1,1,1,1,0,1,VALID
+Robin Scarborough,TfNSW,Experience Design ,Sketch & Co,0,1,0,1,1,1,1,1,VALID
+Gideon Hyde,TotalEnergies,Brand positioning,2CV,0,0,1,1,1,0,0,1,VALID
+Gideon Hyde,TotalEnergies,Brand positioning,Verve,0,0,1,1,1,0,1,1,VALID
+Gideon Hyde,TotalEnergies,Brand positioning,Flume,0,0,1,1,0,0,1,1,VALID
+Gideon Hyde,TotalEnergies,Brand positioning,The Nursery Research & Planning Ltd,0,0,1,1,1,0,1,1,VALID
+Paul Bowman,Veezu,Social Media Veezu,GH05T Ltd.,0,0,0,1,0,1,1,1,VALID
+Paul Bowman,Veezu,Social Media Veezu,Nonsensical,0,0,0,0,0,0,1,0,VALID
+Paul Bowman,Veezu,Social Media Veezu,Spin Brands,0,0,0,1,0,0,0,1,VALID
+Paul Bowman,Wave,Social and web plan,NMD+,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Wave,Social and web plan,Polar Media House,0,0,0,0,0,0,1,0,VALID
+Paul Bowman,Wave,SME engagement ,NMD+,0,1,0,0,0,0,0,0,VALID
+Paul Bowman,Wave,Concept Design,NMD+,0,1,0,0,0,0,0,0,VALID
